@@ -2,21 +2,19 @@
 title: 'NHS Data (public health data) should be free, and not for sale'
 date: 2019-12-10T13:34:49.296Z
 ---
-
-
 National Healthcare Services (NHS) is the public medical system (hospitals, clinics) of the United Kingdom, a kind of ‘Medicare for all’ that makes British people healthy.
 
-![](https://miro.medium.com/max/30/1*7met372jiPvsiJLVaR0gdQ.jpeg?q=20)
+![]()
 
 ![](https://miro.medium.com/max/880/1*7met372jiPvsiJLVaR0gdQ.jpeg)
 
 Debate about NHS data is all the rage across the UK, fueled by rumours of privatization of the NHS to American insurances companies, as part of a UK-US trade deal.
 
-![](https://miro.medium.com/max/30/1*UCHZo0fMCHQIWOMUNzVyIA.jpeg?q=20)
+![]()
 
 ![](https://miro.medium.com/max/480/1*UCHZo0fMCHQIWOMUNzVyIA.jpeg)
 
-![](https://miro.medium.com/max/30/1*gsm-G23vg_rRA5Uxk4DzYw.jpeg?q=20)
+![]()
 
 ![](https://miro.medium.com/max/1400/1*gsm-G23vg_rRA5Uxk4DzYw.jpeg)
 
@@ -35,7 +33,7 @@ Many radical advocates of regulation don’t support regulating the flow of publ
 
 On the other hand, to be self-consistent, people advocating for selling NHS data should also argue for ending public medical research. They should support transition to a secretive activity, akin to**military research**. Public research institutions would restrict access to their data and papers, instead of posting them to public repositories like Arxiv and Biorxiv, and to public databases like[ChEMBL](https://www.ebi.ac.uk/chembl/).
 
-![](https://miro.medium.com/max/30/1*iHj0HLtvAfsGS_jzHL0kcg.jpeg?q=20)
+![]()
 
 ![](https://miro.medium.com/max/800/1*iHj0HLtvAfsGS_jzHL0kcg.jpeg)
 
@@ -51,7 +49,7 @@ Small tech and startups don’t have the resources to go through the hurdles of 
 
 I will share my personal experience as a small tech entrepreneur: I wanted to access NHS clinico-genomic data about cancer, a disease which seemed to be a top priority for the NHS in England. I had to fill various forms, schedule phone calls, to be told at the end that the exact type of data I wanted did not exist yet. Moreover, I was told to pay money to access the lower-quality data that was available in-store. A quite complicated “data shopping” experience.
 
-![](https://miro.medium.com/max/30/1*ZVOoV8PAS_KMZtXTFtE1OQ.png?q=20)
+![]()
 
 ![](https://miro.medium.com/max/1200/1*ZVOoV8PAS_KMZtXTFtE1OQ.png)
 
@@ -59,7 +57,7 @@ So I gave up this project, and turned my attention to alternative datasets, that
 
 Of course, if I had money to hire a specialized brigade of bureaucrats, they would battle with NHS-affiliated bureaucrats on the other side, and pull the data out. I guess that’s how Amazon and Google put their hands on NHS data, at no cost.
 
-![](https://miro.medium.com/max/30/1*MmwQ3u4hkyFAz5boenqlcQ.jpeg?q=20)
+![]()
 
 ![](https://miro.medium.com/max/640/1*MmwQ3u4hkyFAz5boenqlcQ.jpeg)
 
